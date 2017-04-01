@@ -1,0 +1,10 @@
+{
+  "name": "ratingService",
+  "version": "0.0.1",
+  "dependencies": {
+     "mongoose": "~4.4.0"
+  },
+  "devDependencies": {
+    "requirejs": "^2.1.18"
+  }
+}
