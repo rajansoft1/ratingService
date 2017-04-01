@@ -1,6 +1,7 @@
 {
   "name": "ratingService",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "main": "app.js",
   "dependencies": {
      "mongoose": "~4.4.0"
   },
